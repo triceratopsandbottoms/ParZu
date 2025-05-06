@@ -111,7 +111,7 @@ processes = 4
 #Use nbest tagging output
 #This currently only works with a CRF++ tagger
 #Set to '0' to disable, or any positive integer to enable
-nbestmode = 4
+nbestmode = 0
 
 #######################################
 
